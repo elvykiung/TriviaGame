@@ -1,5 +1,5 @@
 body {
-  background-image: url(../images/memphis-mini-dark.png);
+  background-image: url(../images/interlaced.png);
   background-size: 100%;
   margin: 0;
   padding: 0;
@@ -14,15 +14,4 @@ body {
   padding: 20px;
   font-weight: bold;
   color: aqua;
-}
-.btn-lg {
-  padding: 0.5rem 4rem;
-  border-radius: 2.3rem;
-}
-a {
-  font-size: 40px;
-  font-weight: bold;
-}
-a:hover {
-  text-decoration: none;
 }
