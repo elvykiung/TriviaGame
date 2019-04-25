@@ -15,3 +15,8 @@ body {
   font-weight: bold;
   color: aqua;
 }
+
+h4 {
+  color: red;
+  text-align: center;
+}
