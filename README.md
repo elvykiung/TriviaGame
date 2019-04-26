@@ -11,7 +11,7 @@
 
 This is a trivial game allow user to test his/her random fun knowlage in 3m
 
-![Image](assets/images/final_look.png)
+![Image](https://github.com/elvykiung/TriviaGame/blob/master/assets/images/final_look.PNG?raw=true)
 
 ## Technologies
 
