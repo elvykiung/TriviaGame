@@ -24,7 +24,7 @@ Project is created with:
 
 ## Deployment
 
-- Live link: 
+- Live link: https://elvykiung.github.io/TriviaGame/
 - Portfolio link: https://elvykiung.github.io/
 
 
