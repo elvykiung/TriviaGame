@@ -4,7 +4,7 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [Setup](#setup)
+- [Deployment](#Deployment)
 - [Code Overview](#Code-Overview)
 
 ## General info
@@ -22,11 +22,11 @@ Project is created with:
 - Bootstrap
 - HTML 5 & CSS
 
-## Setup
+## Deployment
 
-To run this project, download entier package and open it in web browser or
+- Live link: 
+- Portfolio link: https://elvykiung.github.io/
 
-Clone this repo to your desktop and run npm install to install all the dependencies.
 
 ## Code Overview
 
